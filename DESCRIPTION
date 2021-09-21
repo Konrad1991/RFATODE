@@ -1,0 +1,11 @@
+Package: RFATODE
+Type: Package
+Title: Using FATODE for ode solving
+Version: 1.0
+Date: 2021-09-21
+Author: Konrad Krämer
+Maintainer: Konrad Krämer <konrad_kraemer@yahoo.de>
+Description: Access of FATODE library for ode solving.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp
