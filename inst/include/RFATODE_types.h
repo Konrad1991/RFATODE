@@ -1,6 +1,6 @@
 #ifndef TYPES
 #define TYPES
 
-typedef void (*fp)(double*a, double* b);
+typedef void (*fp)(int* NVAR, double* T, double* Y, double* P);
 
 #endif // TYPES
